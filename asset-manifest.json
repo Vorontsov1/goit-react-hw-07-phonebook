@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voroncov-react-hw07/static/css/main.c2a4bc61.css",
+    "main.js": "/voroncov-react-hw07/static/js/main.5a510d33.js",
+    "index.html": "/voroncov-react-hw07/index.html",
+    "main.c2a4bc61.css.map": "/voroncov-react-hw07/static/css/main.c2a4bc61.css.map",
+    "main.5a510d33.js.map": "/voroncov-react-hw07/static/js/main.5a510d33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a4bc61.css",
+    "static/js/main.5a510d33.js"
+  ]
+}
